@@ -1,0 +1,7 @@
+id = "glass"
+name = "Glass"
+version = "0.1.0"
+schema_version = 1
+authors = ["Hleb Bury <b4bury@gmail.com>"]
+description = "Liquid glass — a transparent, frosted theme (dark + light) for Zed"
+repository = "https://github.com/b4bury/zed-glass"
