@@ -1,5 +1,9 @@
 # Glass
 
+![Zed](https://img.shields.io/badge/Zed-theme-blue)
+![Version](https://img.shields.io/badge/version-0.1.0-green)
+![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)
+
 A liquid-glass theme for [Zed](https://zed.dev) — a transparent, frosted look that
 lets your desktop show through the editor, tree, and terminal as one continuous pane.
 
@@ -7,6 +11,19 @@ Ships two variants:
 
 - **Dark Glass** — transparent dark glass (primary).
 - **Light Glass** — transparent light glass.
+
+<!--
+## Screenshots
+
+| Dark Glass | Light Glass |
+| --- | --- |
+| ![Dark Glass](assets/dark.png) | ![Light Glass](assets/light.png) |
+
+Add clean screenshots (no private code/paths) to assets/ and uncomment this section.
+-->
+
+> **Note:** transparency requires a transparent window background. This works over your
+> desktop wallpaper; the effect is strongest over an even or lighter area.
 
 ## How it works
 
