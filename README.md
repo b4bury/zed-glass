@@ -12,15 +12,11 @@ Ships two variants:
 - **Dark Glass** — transparent dark glass (primary).
 - **Light Glass** — transparent light glass.
 
-<!--
 ## Screenshots
 
 | Dark Glass | Light Glass |
 | --- | --- |
 | ![Dark Glass](assets/dark.png) | ![Light Glass](assets/light.png) |
-
-Add clean screenshots (no private code/paths) to assets/ and uncomment this section.
--->
 
 > **Note:** transparency requires a transparent window background. This works over your
 > desktop wallpaper; the effect is strongest over an even or lighter area.
