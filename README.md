@@ -1,6 +1,6 @@
 # Glass
 
-![Zed](https://img.shields.io/badge/Zed-theme-blue)
+[![Zed Extension](https://img.shields.io/badge/Zed-extension%20gallery-blue)](https://zed.dev/extensions/glass-theme)
 ![Version](https://img.shields.io/badge/version-0.1.0-green)
 ![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey)
 
@@ -34,6 +34,8 @@ very dark region will naturally read dark, since there is little for it to revea
 ## Installation
 
 ### From the Zed extension registry
+
+Available in the [Zed extension gallery](https://zed.dev/extensions/glass-theme).
 
 `Cmd+Shift+X` → search **Glass** → Install. Then `Cmd+K Cmd+T` → **Dark Glass** / **Light Glass**.
 
